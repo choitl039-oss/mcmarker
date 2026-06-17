@@ -1,8 +1,0 @@
-pytesseract
-pdf2image
-opencv-python-headless
-pillow
-numpy
-pandas
-openpyxl
-streamlit
